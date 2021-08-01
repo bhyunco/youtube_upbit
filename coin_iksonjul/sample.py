@@ -11,7 +11,7 @@ login()
 !pip install jwt
 !pip install pyupbit
 !pip install upbit-client
-
+!pip install pyperclip
 
 
 import time
